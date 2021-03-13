@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 
+# Header 1
+ <h3><a href="http://design3d.hopto.org"><h1>Vrei proiect la O.M.2 sau Informatica Aplicata</h1></a></h3><br><br>
 ## Header 2
 ### Header 3
 <head>
@@ -54,7 +55,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+<div class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="imagini/desenul-tehnic.jpg">                
+             </div>
+        </div>
+    </div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
